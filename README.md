@@ -489,15 +489,15 @@ These results describe the supplied Junction 67 recording. They do not claim lon
 
 ### Dashboard
 
-![Traffic Analytics Dashboard](docs/images/dashboard.png)
+![Traffic Analytics Dashboard](frontend/public/assets/dashboard.png)
 
 ### Analytics Overview
 
-![Traffic Analytics Overview](docs/images/analytics-overview.png)
+![Traffic Analytics Overview](frontend/public/assets/analytics-overview.png)
 
 ### Analytics Detailed Analysis
 
-![Traffic Analytics Detailed Analysis](docs/images/analytics-analysis.png)
+![Traffic Analytics Detailed Analysis](frontend/public/assets/analytics-analysis.png)
 
 ## Limitations
 
