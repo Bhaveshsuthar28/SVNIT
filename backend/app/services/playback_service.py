@@ -12,7 +12,7 @@ from app.schemas import FrameObject, WebSocketFrame
 
 logger = logging.getLogger(__name__)
 
-ALLOWED_SPEEDS = {0.25, 0.5, 1.0, 2.0, 4.0}
+ALLOWED_SPEEDS = {0.1, 0.25, 0.5, 1.0, 1.5, 2.0}
 
 
 @dataclass
